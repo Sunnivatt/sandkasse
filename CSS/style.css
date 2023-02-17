@@ -1,0 +1,66 @@
+body {
+background-color: rgb(142, 195, 237);
+background-image: url(../assets/iPhone\ 14\ -\ 8.png);
+background-repeat: no-repeat;
+background-size: cover;
+display: flex;
+flex-flow: column nowrap;
+height: 100vh;
+align-items: center;
+font-family: 'Raleway';
+color: rgb(85, 66, 36);
+
+
+}
+
+main{
+    background-color: rgb(202, 213, 200);
+    border-radius: 0.8rem;
+    padding: 1rem;
+}
+
+label {
+padding-bottom: 0rem;
+
+}
+
+#item-list li {
+
+   
+}
+   
+
+
+h1 {
+    padding-bottom: 0.8rem;
+}
+
+
+
+span{
+    padding: 0.8rem;
+}
+
+
+
+#add {
+color: rgb(9, 9, 9);
+
+}
+
+
+
+html{
+    font-size: 100%;
+}
+
+
+#deleteButton {
+    position: relative;
+    left: 30px;
+    border-radius: 0.2rem;
+    background-color: rgb(254, 254, 254);
+}
+
+
+
